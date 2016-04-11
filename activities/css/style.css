@@ -1,2 +1,6 @@
 h1{color: blue;}
 span{color: red;}
+marquee{background-image:url("Earth_(orbit).png");}
+#rebel{color: pink; text-decoration:line-through;}
+.unicorn{background: url("Earth_(orbit).png");  height: 500px; width: 500px;}
+#red{background-color: red;}
